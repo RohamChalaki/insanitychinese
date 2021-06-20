@@ -1,0 +1,1 @@
+str.upper(["fuck", "bitch", "shit"])
